@@ -1,0 +1,48 @@
+favicon:
+  logo: favicon-32x32.png
+  icon16: favicon-16x16.png
+  icon32: favicon-32x32.png
+  apple_touch_icon: apple-touch-icon.png
+  webmanifest: /site.webmanifest
+  visibilitychange: true
+  hidden: failure.ico
+  show_text: (/≧▽≦/)咦！又好了！
+  hide_text: (●—●)喔哟，崩溃啦！
+
+sidebar:
+  typed_text_prefix: 我是
+  typed_text: ["世界上最棒的"]
+  social: # 社交地址
+    - name: github
+      icon: fab fa-github
+      url: https://github.com
+    - name: QQ
+      icon: fab fa-qq
+      url: /themes/async/source/img/qq.jpg
+    - name: 邮箱
+      icon: fab fa-email
+      url: ybwwsnbb@126.com
+
+    
+
+    
+
+user:
+  name: 源来如此
+  first_name: 元
+  last_name: 源
+  email: ybwwsnbb@126.com
+  domain: none.com
+  avatar: /img/xiaohaijie.gif
+  describe: 我的个人博客，分享我的学习经历和思考。
+  rule_text: 你好啊，我是源来如此
+
+top_bars:
+  - title: 主页
+    url: /
+  - title: archives
+    url: /archives/
+    noswup: true
+
+layout:
+    footer: async/footer
